@@ -9,7 +9,7 @@ The following was done to refactor: new title, all div elements were deleted and
 
 The following image shows the web application's appearance and functionality:
 
-!["Photo of webiste."](assets/images/site-view.png)
+!["Photo of webiste."](/assets/images/site-view.png)
 
 Here is a link to the website: https://nicolepingar.github.io/Homework_01/
 
